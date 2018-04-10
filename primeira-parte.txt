@@ -1,4 +1,3 @@
-começando sobre C
 <<<<<<< HEAD
 adicionando a modificação de merge do master
 
@@ -15,8 +14,7 @@ adicionando a modificação de merge do master
 
 sdddd
 
-teste para merge
-<<<<<<< HEAD
+
 >>>>>>> disign
 =======
 
