@@ -5,5 +5,21 @@ adicionando a modificação de merge do master
 
 =======
 
+
+
+
+
+
+
+
+
+sdddd
+
 teste para merge
+<<<<<<< HEAD
+>>>>>>> disign
+=======
+
+
+alteração
 >>>>>>> disign
